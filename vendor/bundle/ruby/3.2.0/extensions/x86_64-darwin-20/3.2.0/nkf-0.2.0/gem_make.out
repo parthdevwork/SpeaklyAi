@@ -1,0 +1,18 @@
+current directory: /Users/imac/Desktop/Speakly/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+/usr/local/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/imac/Desktop/Speakly/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240320-63053-vdpfr3 sitelibdir\=./.gem.20240320-63053-vdpfr3 clean
+
+current directory: /Users/imac/Desktop/Speakly/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240320-63053-vdpfr3 sitelibdir\=./.gem.20240320-63053-vdpfr3
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/imac/Desktop/Speakly/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240320-63053-vdpfr3 sitelibdir\=./.gem.20240320-63053-vdpfr3 install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20240320-63053-vdpfr3
+
+current directory: /Users/imac/Desktop/Speakly/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240320-63053-vdpfr3 sitelibdir\=./.gem.20240320-63053-vdpfr3 clean
